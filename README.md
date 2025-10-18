@@ -97,9 +97,9 @@ const char pass[] = "12345678";
 int keyIndex = 0;
 WiFiClient  client;
 
-unsigned long myChannelNumber = 3121454 ;
+unsigned long myChannelNumber = 3119312;
 const int ChannelField = 1; 
-const char * myWriteAPIKey = "6BPNODSW19VZSNCP";
+const char * myWriteAPIKey = "SR6FV0D8K8HFQABB";
 
 const int airValue = 4095; 
 const int waterValue = 0;
@@ -140,11 +140,10 @@ void loop()
 ![WhatsApp Image 2025-10-17 at 11 19 31 AM](https://github.com/user-attachments/assets/f638a69b-41dd-4d9e-9075-6b709badf18d)
 
 # OUTPUT:
+![EX5 - O1](https://github.com/user-attachments/assets/0ad6e37d-4890-4219-a4fe-065a452857c9)
 
+![EX5 - O2](https://github.com/user-attachments/assets/7c0bb29b-7db9-42d0-8c68-9b9cbd05bef8)
 
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
-
-
-
