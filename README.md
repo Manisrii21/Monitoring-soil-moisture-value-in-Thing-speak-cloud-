@@ -91,8 +91,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include <ThingSpeak.h>
 #define Soil_Moisture 34
 // Replace with your credentials
-const char ssid[] = "vivo Y22";
-const char pass[] = "12345678";
+const char ssid[] = "OPPO A5 Pro 5G";
+const char pass[] = "manisri123";
 
 int keyIndex = 0;
 WiFiClient  client;
